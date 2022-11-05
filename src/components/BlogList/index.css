@@ -1,0 +1,6 @@
+/* Write your CSS code here */
+.blogs-list {
+  display: flex;
+  flex-direction: column;
+  width: 90%;
+}
